@@ -1,2 +1,6 @@
-.idea
-matrix.iml
+# Maven files
+target/
+
+# Intellij IDEA files
+.idea/
+*.iml
